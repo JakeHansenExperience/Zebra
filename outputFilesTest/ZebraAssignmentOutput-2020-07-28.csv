@@ -1,0 +1,10 @@
+Provider Name, CampaignID, Cost Per Ad Click, RedirectLink, Phone Number, Address, Zipcode
+"Auto R' Us","AUTO1","15.00","autorus.com/auto1","8675309","Burton Street","78702"
+"SafeAuto","AUTO2","15.00","safeauto.com/auto2","8675309","Bat Street","78702"
+"OddAutos","AUTO3","5.00","oddautos.com/auto3","8675309","Tiger King Rd","78702"
+"LowCostCoverage","AUTO4","15.50","lcc.com/auto4","4592222","Christmas Town","78702"
+"PhoneAuto","AUTO5","10.00","phoneauto.com/auto5","NULL","IDK Street","78702"
+"Home R' Us","HOME","5","homerus.com","1234567","Tim Street","78705"
+"HomeGuard","HOME1","5.5","homeguard.com","1234567","Tam Street","78705"
+"HomesOnly","HOME3","5","homesonly.com","NULL","6th Street","78705"
+"Homes4U","HOME5","6","homes4u.com","1234567","North Pole","78705"

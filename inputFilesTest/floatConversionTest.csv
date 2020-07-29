@@ -1,0 +1,8 @@
+Provider Name, CampaignID,Cost Per Ad Click,Redirect Link,Phone Number,Address,Zipcode
+a,b,5.0,d,e,f,g
+a,b,'     3.0      ',d,e,f,g
+a,b,"55.4",d,e,f,g
+a,b,Five,d,e,f,g
+a,b,3.2.2,d,e,f,g
+a,b,'3.3.2.1',d,e,f,g
+a,b,"cost4.9",d,e,f,g
